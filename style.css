@@ -1,0 +1,48 @@
+
+
+
+
+
+*{
+    margin: 0%;
+    padding: 1%;
+    font-family: centuary Gothic;
+    <style="background-image: quality hotel.png;
+    <div class="container" style="background-color:#200c94;">
+    text-align:centre;
+}
+header{
+    background-color: aqua;
+    height:auto;
+    background-size: cover;
+    background-position: center;
+}
+ul{
+    float:rigt;
+    list-style-type: lower-roman;
+}
+body
+{
+    
+    background-size:cover;
+    background-position: center;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-align: center;
+}
+.div{
+    background: url("1.jpg");
+}
+img{
+    width=500px;
+    height=300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h1{color: blue;font-size: medium;}
+h2{color: rgb(163, 13, 13);}
+h4{color: rgb(40, 17, 170);}
+li{color: rgb(160, 9, 9);}
+p{
+    border: 1px;
+}
